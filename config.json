@@ -1,11 +1,6 @@
 {
-  "ws_host": "zsnz.markethostinger.my.id",
-  "ws_port": "4004",
-  "api_base": "http://rezzagntk.panelkuy.my.id/api",
-  "telegram_support": "https://t.me/yourchannel",
-  "version": "1.2",
-  "features": {
-    "enable_tools": true,
-    "max_users": 999
-  }
+  "ws": "rezzagntk.panelkuy.my.id",
+  "ws_port": "9016",
+  "host": "http://rezzagntk.panelkuy.my.id",
+  "port_host": "9016"
 }
